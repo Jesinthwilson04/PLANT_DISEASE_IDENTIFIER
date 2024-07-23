@@ -13,7 +13,7 @@ df = px.data.iris()
 # Streamlit App
 
 st.set_page_config(
-    page_title="upload the image",
+    page_title="plant disease identifier",
     page_icon=":herb:",
     layout="centered",  
     initial_sidebar_state="collapsed" 
